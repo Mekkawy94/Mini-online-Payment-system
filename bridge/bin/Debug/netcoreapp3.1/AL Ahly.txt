@@ -1,0 +1,5 @@
+Name:new   Price:100   Visa:paybal
+Name:new2   Price:100   Visa:paybal
+Name:new5   Price:500   Visa:Misa
+Name:new5   Price:500   Visa:Misa
+Name:   Price:   Visa:paybal

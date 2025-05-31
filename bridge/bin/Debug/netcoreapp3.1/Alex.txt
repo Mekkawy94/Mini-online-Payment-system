@@ -1,0 +1,3 @@
+Name:itemalex   Price:1000000   Visa:paybal
+Name:itemalex2   Price:1000000   Visa:paybal
+Name:itemalex3   Price:1000000   Visa:Misa

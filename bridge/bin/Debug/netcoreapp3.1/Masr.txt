@@ -1,0 +1,10 @@
+Name:new   Price:1000   Visa:paybal
+Name:new   Price:1000   Visa:paybal
+Name:new3   Price:100   Visa:Misa
+Name:new3   Price:100   Visa:Misa
+Name:samsung   Price:4000   Visa:Misa
+Name:phone   Price:300   Visa:Misa
+Name:amera   Price:200   Visa:paybal
+Name:one   Price:1000   Visa:paybal
+Name:Laptop   Price:20000   Visa:paybal
+Name:pc   Price:50000   Visa:Misa

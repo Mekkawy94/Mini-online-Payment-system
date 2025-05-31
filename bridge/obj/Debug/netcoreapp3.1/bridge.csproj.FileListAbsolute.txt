@@ -1,0 +1,57 @@
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.exe
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.deps.json
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.runtimeconfig.json
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.dll
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.pdb
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.ahly.resources
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.alex.resources
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.Form1.resources
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.masr.resources
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.dll
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.pdb
+C:\Users\LENOVO\Desktop\design project arrange\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.exe
+C:\Users\LENOVO\Desktop\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.deps.json
+C:\Users\LENOVO\Desktop\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.runtimeconfig.json
+C:\Users\LENOVO\Desktop\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.dll
+C:\Users\LENOVO\Desktop\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.pdb
+C:\Users\LENOVO\Desktop\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.ahly.resources
+C:\Users\LENOVO\Desktop\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.alex.resources
+C:\Users\LENOVO\Desktop\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.Form1.resources
+C:\Users\LENOVO\Desktop\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.masr.resources
+C:\Users\LENOVO\Desktop\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.dll
+C:\Users\LENOVO\Desktop\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.pdb
+C:\Users\LENOVO\Desktop\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.genruntimeconfig.cache
+E:\faculty\3\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.dll
+E:\faculty\3\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.pdb
+E:\faculty\3\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.exe
+E:\faculty\3\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.deps.json
+E:\faculty\3\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.runtimeconfig.json
+E:\faculty\3\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.runtimeconfig.dev.json
+E:\faculty\3\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.dll
+E:\faculty\3\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.pdb
+E:\faculty\3\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.csproj.AssemblyReference.cache
+E:\faculty\3\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.ahly.resources
+E:\faculty\3\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.alex.resources
+E:\faculty\3\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.Form1.resources
+E:\faculty\3\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.masr.resources
+E:\faculty\3\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.csproj.GenerateResource.cache
+E:\faculty\3\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculty\3\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.AssemblyInfoInputs.cache
+E:\faculty\3\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.AssemblyInfo.cs
+E:\faculty\3\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.csproj.CoreCompileInputs.cache
+E:\faculty\3\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.genruntimeconfig.cache
