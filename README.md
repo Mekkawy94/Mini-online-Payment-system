@@ -27,6 +27,6 @@ The Bridge pattern is utilized to separate the abstraction (payment types) from 
 ## 📷 Screenshots
 
 ![Home](Screenshots/Home.png)
-![Data in Note](Screenshots/Data%20in%20Note.png)
 ![Add Product](Screenshots/Add%20Product.png)
+![Data in Note](Screenshots/Data%20in%20Note.png)
 
